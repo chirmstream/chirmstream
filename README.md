@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @chirmstream
 - 👀 I’m interested in computer science, linux, automation, and robotics.
-- 🌱 I’m currently learning homelab server stuff mostly.
-- 💞️ I’m looking to collaborate on an email to pdf converter.
-- 📫 How to reach me...
+- 🌱 I’m currently learning python, swift, and swiftui.
+- 💞️ I’m looking to collaborate on many things, but most recentely would be an ios app.
+- 📫 How to reach me...  Please send me an email at dextergbarney@gmail.com
 
 <!---
 chirmstream/chirmstream is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
