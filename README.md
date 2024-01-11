@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chirmstream
 - 👀 I’m interested in computer science, linux, automation, and robotics.
-- 🌱 I’m currently learning python, swift, and swiftui.
-- 💞️ I’m looking to collaborate on many things, but most recentely would be an ios app.
+- 🌱 I’m currently learning python, and docker.
+- 💞️ I’m looking to collaborate on many things, (too many ideas to pick one for now!)
 - 📫 How to reach me...  Please send me an email at dextergbarney@gmail.com
 
 <!---
